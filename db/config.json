@@ -1,0 +1,11 @@
+{
+    "dev": {
+        "PORT": 3005,
+        "POOL_SIZE": 20,
+        "MYSQLDB_HOST": "localhost",
+        "MYSQLDB_USER": "root",
+        "MYSQLDB_PASS": "",
+        "MYSQLDB": "test",
+        "SECRET_KEY ":"1234Test"
+    }
+}
